@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renner-Mk&layout=compact&hide_border=true&title_color=00ABF7&text_color=00ABF7&bg_color=0d1117" />
 </div>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 6.5%></picture> About me
 
 - 🗣**Languages ​​I Speak:** Portuguese-Brazil (native) and English (intermediate)
 - ⚡**Hobbies:** I love Playing 🎮Videogames, Watching 🎥Series and Movies, 🏃Exercing, ...
@@ -15,7 +15,7 @@
 - 🌳 A phrase that I like is 'Don't stand still, keep learning and fighting for your dream, and live without regrets.
 
 
-<img width=250px align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif">
+<img width=30% align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif">
 <h3 align="left"> 📖 I’m currently learning</h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,7 +35,7 @@
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=Redux)
 ![Material-UI](https://img.shields.io/badge/Material--UI-%23007FFF?style=for-the-badge&logo=Mui&logoColor=%23fff)
 
-<h3>Conect with me!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80px"></h3>
+<h3>Conect with me!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="6.5%"></h3>
 <div align="left"> 
   <a href = "mailto:patrickrenner.m@gmail.com"><img src="https://img.shields.io/badge/Gmail-e34133?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patrick-renner01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
